@@ -95,7 +95,9 @@ _Aquí puedes añadir imágenes de la interfaz para mostrar cómo funciona el si
 - Python 3.7 o superior.  
 - Librerías:  
   - PyQt5  
-  - Otras librerías estándar de Python (según módulos específicos).
+  - numpy
+  - matplotlib
+  - sympy
 
 ---
 
